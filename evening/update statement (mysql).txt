@@ -1,0 +1,3 @@
+String updateSql="UPDATE customer1 SET balance=balance + 0 where cusid=100";// grace marks ?
+		int rowsUpdated = stmt.executeUpdate(updateSql) ;
+		System.out.println(rowsUpdated);

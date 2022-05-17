@@ -1,0 +1,8 @@
+3-directives<%@ %>
+4-scripting elements
+<% %>,<%=%>,<!%%>,<!!>
+9-standard action tags
+-www-wants everything to be tag based (html)
+-learning curve is short/small
+-to create more job opportunities for not so technical people
+-
